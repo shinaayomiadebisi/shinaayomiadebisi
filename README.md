@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, welcome to my world
+**My name is Shinaayomi Adebisi**
+**A software Engineer**
 
 <!--
 **shinaayomiadebisi/shinaayomiadebisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
