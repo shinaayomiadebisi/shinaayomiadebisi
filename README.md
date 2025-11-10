@@ -1,5 +1,5 @@
 ## Hi there 👋, welcome to my world
-<p>**My name is Shinaayomi Adebisi**</p>
+<p>My name is Shinaayomi Adebisi</p>
 **A software Engineer**
 
 <!--
