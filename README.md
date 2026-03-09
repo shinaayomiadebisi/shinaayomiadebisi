@@ -1,8 +1,9 @@
 ## Hi there 👋, welcome to my world
 
-- **My name is Shinaayomi Adebisi**
-- **A Software Engineer**
-- 🤔 &nbsp; Fullstack Developer working remotely   
+**My name is Shinaayomi Adebisi**  
+**A Software Engineer**
+
+- 🤔 &nbsp; Fullstack Developer working remotely
 
 ---
 
@@ -42,6 +43,10 @@
 <a href=""><img alt="Instagram" src="https://img.shields.io/badge/instagram-shinaayomi.ul-red"></a>
 <a href=""><img alt="Twitter" src="https://img.shields.io/badge/twitter-shinaayomi__ul-blue"></a>
 </p>
+
+---
+
+# To determine my years of experience with Github, here is my old github account: ![https://github.com/shinaayomi]{Link}
 
 <!--
 **shinaayomiadebisi/shinaayomiadebisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
