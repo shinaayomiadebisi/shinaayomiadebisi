@@ -46,7 +46,7 @@
 
 ---
 
-# To determine my years of experience with Github, here is my old github account: ![https://github.com/shinaayomi](Link)
+# To determine my years of experience with Github, here is my old github account: ![Link][https://github.com/shinaayomi]
 
 <!--
 **shinaayomiadebisi/shinaayomiadebisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
