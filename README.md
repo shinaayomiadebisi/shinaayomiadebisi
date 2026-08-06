@@ -1,7 +1,10 @@
-## Hi there 👋, welcome to my world
+## Hey there 👋, Shinaayomi this side!
 
-**My name is Shinaayomi Adebisi**  
-**A Software Engineer**
+A Software Engineer specializing in Software Development. I enjoy writing
+clean, testable code and building products that make a difference.
+Currently, I'm working with Fullstack and actively contributing
+to [Personal Project or Open Source repo]. Feel free to reach out
+to me about [Topics you are passionate about]!"
 
 - 🤔 &nbsp; Fullstack Developer working remotely
 
@@ -10,6 +13,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
