@@ -3,7 +3,7 @@
 A Software Engineer specializing in Software Development. I enjoy writing
 clean, testable code and building products that make a difference.
 Currently, I'm working with Fullstack and actively contributing
-to [Personal Project or Open Source repo]. Feel free to reach out
+to ![Dating App](https://github.com/shinaayomiadebisi/DatingApp). Feel free to reach out
 to me about [Topics you are passionate about]!"
 
 - 🤔 &nbsp; Fullstack Developer working remotely
